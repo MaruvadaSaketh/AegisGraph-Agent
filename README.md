@@ -176,6 +176,8 @@ This repo is structured for the Graph Hacks rules and is designed around FalkorD
 - deploying the app or providing complete local setup instructions,
 - naming the track as `Agents That Act on Connected Data`.
 
+See [SUBMISSION.md](./SUBMISSION.md) for a submission-ready project summary and AI-assistant disclosure.
+
 ## License
 
-This project is provided for educational and hackathon use. Check the repository owner’s policy before production deployment or commercial reuse.
+This project is licensed under the [MIT License](./LICENSE).
