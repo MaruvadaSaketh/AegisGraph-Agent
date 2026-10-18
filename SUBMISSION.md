@@ -40,4 +40,6 @@ An AI coding assistant (Copilot SDK in VS Code) was used to help update project 
 
 ## Demo and deployment
 
-Add the demo video URL here before submitting. If no live deployment is available, use the complete local setup instructions in [README.md](./README.md).
+Use the timed walkthrough in [DEMO-SCRIPT.md](./DEMO-SCRIPT.md) to record the demo, then add the video URL here before submitting. If no live deployment is available, use the complete local setup instructions in [README.md](./README.md).
+
+**Demo video:** Add URL after recording.

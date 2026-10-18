@@ -177,6 +177,7 @@ This repo is structured for the Graph Hacks rules and is designed around FalkorD
 - naming the track as `Agents That Act on Connected Data`.
 
 See [SUBMISSION.md](./SUBMISSION.md) for a submission-ready project summary and AI-assistant disclosure.
+See [DEMO-SCRIPT.md](./DEMO-SCRIPT.md) for a timed walkthrough and recording checklist.
 
 ## License
 
